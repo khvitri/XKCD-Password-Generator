@@ -3,4 +3,4 @@ A memorable and secure password generator by combining 4 random words together
 
 # Set up
 - Clone the repo
-- Enter "./xkcdpwgen" to run the password generator
+- Traverse to the project directory and enter "./xkcdpwgen" to run the password generator
